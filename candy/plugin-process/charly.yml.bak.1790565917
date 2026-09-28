@@ -1,5 +1,7 @@
+version: 2026.232.0520
 plugin-process:
     candy:
+        version: 2026.176.1600
         description: |-
             The `process` check verb relocated into a candy: a `pgrep -x` exact-name
             match against the live deployment. A HOST-COUPLED verb — its RunVerb runs
